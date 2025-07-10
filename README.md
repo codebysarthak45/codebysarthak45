@@ -11,7 +11,7 @@
 ## 🙋‍♂️ About Me
 
 🎓 I'm a B.Tech Computer Engineering student at **SB Patil College of Engineering, Indapur**  
-💻 I’m passionate about **Java backend development**, working with **Servlets, JSP, Node.js**, and exploring **Spring core**  
+💻 I’m passionate about **Java backend development**, working with **Servlets, JSP, Node.js,React.js**, and exploring **Spring core**  
 🔍 Currently focusing on **DSA**, **System Design**, and real-world **project building**  
 🎯 My goal is to become a **Full Stack Java Developer**  
 📧 You can reach me at **sj02042003@gmail.com**  
